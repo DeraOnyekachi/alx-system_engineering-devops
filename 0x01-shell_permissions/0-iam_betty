@@ -1,1 +1,3 @@
-#!/bin/bash\nsudo\n
+#!/bin/bash
+sudo
+
